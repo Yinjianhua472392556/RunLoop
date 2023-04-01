@@ -14,6 +14,8 @@
 		465E4E8A29D7F6DC00890D57 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E8929D7F6DC00890D57 /* Assets.xcassets */; };
 		465E4E8D29D7F6DC00890D57 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E8B29D7F6DC00890D57 /* LaunchScreen.storyboard */; };
 		465E4E9029D7F6DC00890D57 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 465E4E8F29D7F6DC00890D57 /* main.m */; };
+		465E4E9829D7FE0B00890D57 /* spaceship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E9629D7FE0A00890D57 /* spaceship.jpg */; };
+		465E4E9929D7FE0B00890D57 /* spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E9729D7FE0B00890D57 /* spaceship.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		465E4E8C29D7F6DC00890D57 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		465E4E8E29D7F6DC00890D57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		465E4E8F29D7F6DC00890D57 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		465E4E9629D7FE0A00890D57 /* spaceship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spaceship.jpg; sourceTree = "<group>"; };
+		465E4E9729D7FE0B00890D57 /* spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spaceship.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 				465E4E8929D7F6DC00890D57 /* Assets.xcassets */,
 				465E4E8B29D7F6DC00890D57 /* LaunchScreen.storyboard */,
 				465E4E8E29D7F6DC00890D57 /* Info.plist */,
+				465E4E9629D7FE0A00890D57 /* spaceship.jpg */,
+				465E4E9729D7FE0B00890D57 /* spaceship.png */,
 				465E4E8F29D7F6DC00890D57 /* main.m */,
 			);
 			path = RunLoopDemo;
@@ -133,7 +139,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				465E4E9829D7FE0B00890D57 /* spaceship.jpg in Resources */,
 				465E4E8D29D7F6DC00890D57 /* LaunchScreen.storyboard in Resources */,
+				465E4E9929D7FE0B00890D57 /* spaceship.png in Resources */,
 				465E4E8A29D7F6DC00890D57 /* Assets.xcassets in Resources */,
 				465E4E8829D7F6DA00890D57 /* Main.storyboard in Resources */,
 			);
