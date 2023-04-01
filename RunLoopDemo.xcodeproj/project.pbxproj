@@ -16,6 +16,8 @@
 		465E4E9029D7F6DC00890D57 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 465E4E8F29D7F6DC00890D57 /* main.m */; };
 		465E4E9829D7FE0B00890D57 /* spaceship.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E9629D7FE0A00890D57 /* spaceship.jpg */; };
 		465E4E9929D7FE0B00890D57 /* spaceship.png in Resources */ = {isa = PBXBuildFile; fileRef = 465E4E9729D7FE0B00890D57 /* spaceship.png */; };
+		465E4E9C29D800FF00890D57 /* RunloopLazyLoadViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 465E4E9B29D800FF00890D57 /* RunloopLazyLoadViewController.m */; };
+		465E4E9F29D8019F00890D57 /* DWURunloopLazyLoad.m in Sources */ = {isa = PBXBuildFile; fileRef = 465E4E9E29D8019F00890D57 /* DWURunloopLazyLoad.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +35,10 @@
 		465E4E8F29D7F6DC00890D57 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		465E4E9629D7FE0A00890D57 /* spaceship.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = spaceship.jpg; sourceTree = "<group>"; };
 		465E4E9729D7FE0B00890D57 /* spaceship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spaceship.png; sourceTree = "<group>"; };
+		465E4E9A29D800FF00890D57 /* RunloopLazyLoadViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RunloopLazyLoadViewController.h; sourceTree = "<group>"; };
+		465E4E9B29D800FF00890D57 /* RunloopLazyLoadViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RunloopLazyLoadViewController.m; sourceTree = "<group>"; };
+		465E4E9D29D8019F00890D57 /* DWURunloopLazyLoad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DWURunloopLazyLoad.h; sourceTree = "<group>"; };
+		465E4E9E29D8019F00890D57 /* DWURunloopLazyLoad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DWURunloopLazyLoad.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +77,10 @@
 				465E4E8129D7F6DA00890D57 /* SceneDelegate.m */,
 				465E4E8329D7F6DA00890D57 /* ViewController.h */,
 				465E4E8429D7F6DA00890D57 /* ViewController.m */,
+				465E4E9A29D800FF00890D57 /* RunloopLazyLoadViewController.h */,
+				465E4E9B29D800FF00890D57 /* RunloopLazyLoadViewController.m */,
+				465E4E9D29D8019F00890D57 /* DWURunloopLazyLoad.h */,
+				465E4E9E29D8019F00890D57 /* DWURunloopLazyLoad.m */,
 				465E4E8629D7F6DA00890D57 /* Main.storyboard */,
 				465E4E8929D7F6DC00890D57 /* Assets.xcassets */,
 				465E4E8B29D7F6DC00890D57 /* LaunchScreen.storyboard */,
@@ -156,7 +166,9 @@
 			files = (
 				465E4E8529D7F6DA00890D57 /* ViewController.m in Sources */,
 				465E4E7F29D7F6DA00890D57 /* AppDelegate.m in Sources */,
+				465E4E9C29D800FF00890D57 /* RunloopLazyLoadViewController.m in Sources */,
 				465E4E9029D7F6DC00890D57 /* main.m in Sources */,
+				465E4E9F29D8019F00890D57 /* DWURunloopLazyLoad.m in Sources */,
 				465E4E8229D7F6DA00890D57 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
